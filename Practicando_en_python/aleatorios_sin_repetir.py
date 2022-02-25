@@ -1,4 +1,5 @@
 import numpy as np
+
 n=int(input("digite un numero: "))
 
 def intentos(l):
