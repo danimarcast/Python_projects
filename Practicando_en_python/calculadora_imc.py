@@ -1,3 +1,10 @@
+# Calculadora de IMC
+# IMC = Peso / (Altura x Altura)
+# < 19: delgadez
+# entre 20 y 25: normal
+# entre 26 y 30: sobrepeso
+# > de 30: obesidad
+
 peso = int(input('Ingrese su peso en kg'))
 alturaEnCM = int(input('Ingrese su altura en cm'))
 alturaEnMetros = alturaEnCM / 100
