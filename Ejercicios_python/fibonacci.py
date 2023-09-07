@@ -14,4 +14,4 @@ def fibonacci(n):
         if i>1:
             lista[i]=lista[i-1]+lista[i-2]
     return lista[-1]
-print(fibonacci(6))
+print(fibonacci(50))
